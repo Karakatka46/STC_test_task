@@ -18,6 +18,11 @@ Implementation of the Karplus-Strong algorithm for string sound synthesis. This 
 - Create musical chords
 - Play generated audio directly (requires SoX)
 
+To play a sound put in the consol:
+```bash
+cd build/
+play "filename"
+
 ## Requirements
 - **CMake** version 3.20+
 - **C++ compiler** with C++17 support
@@ -33,3 +38,4 @@ cd build
 cmake ..
 make
 ./Karplus_app
+play "filename"
