@@ -10,10 +10,10 @@
 
 ## Project Description
 Implementation of the Karplus-Strong algorithm for string sound synthesis. This project allows you to:
-- Generate individual notes (A4, E4, B4, F#, C#)
-- Save results as properly named WAV files
-- Create musical chords
-- Play generated audio directly (requires SoX)
+-- Generate individual notes (A4, E4, B4, F#, C#)
+-- Save results as properly named WAV files
+-- Create musical chords
+-- Play generated audio directly (requires SoX)
 
 To play a sound put in the consol:
 ```bash
@@ -21,10 +21,10 @@ cd build/
 play "filename"
 ```
 ## Requirements
-- **CMake** version 3.20+
-- **C++ compiler** with C++17 support
-- **Build system** Make
-- **SoX** (for audio playback - optional)
+-- **CMake** version 3.20+
+-- **C++ compiler** with C++17 support
+-- **Build system** Make
+-- **SoX** (for audio playback - optional)
 
 ## Building the Project
 
