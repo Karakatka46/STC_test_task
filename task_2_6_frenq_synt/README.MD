@@ -15,7 +15,7 @@
 Implementation of the Karplus-Strong algorithm for string sound synthesis. This project allows you to:
 - Generate individual notes (A4, E4, B4, F#, C#)
 - Save results as properly named WAV files
-- Save results as properly named WAV files
+- Create musical chords
 - Play generated audio directly (requires SoX)
 
 ## Requirements
