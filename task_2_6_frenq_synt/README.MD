@@ -21,10 +21,10 @@ cd build/
 play "filename"
 ```
 ## Requirements
--- **CMake** version 3.20+
--- **C++ compiler** with C++17 support
--- **Build system** Make
--- **SoX** (for audio playback - optional)
+-- **CMake** version 3.20+  
+-- **C++ compiler** with C++17 support  
+-- **Build system** Make  
+-- **SoX** (for audio playback - optional)  
 
 ## Building the Project
 
