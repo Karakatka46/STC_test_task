@@ -1,15 +1,12 @@
 # Karplus–Strong String Synthesis Algorithm
 
 ![CMake](https://img.shields.io/badge/CMake-3.20+-brightgreen)
-![C++23](https://img.shields.io/badge/C++-17-blue)
+![C++23](https://img.shields.io/badge/C++-23-blue)
 
 ## Table of Contents
 1. [Project Description](#-project-description)
 2. [Requirements](#-requirements)
 3. [Building the Project](#-building-the-project)
-4. [Usage](#-usage)
-5. [Examples](#-examples)
-6. [Project Structure](#-project-structure)
 
 ## Project Description
 Implementation of the Karplus-Strong algorithm for string sound synthesis. This project allows you to:
