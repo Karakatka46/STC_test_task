@@ -23,4 +23,4 @@ g++ alg_LCG_v1.cpp -o alg_LCG_v1 -std=c++23
 
 # Run
 ./lc_solver
-# Enter 4 numbers when prompted (space-separated)
+# Enter 4 numbers when prompted (enter to input 1 num)
